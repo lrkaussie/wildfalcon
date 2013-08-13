@@ -1,0 +1,6 @@
+[05-Aug-2013 12:53:27 UTC] PHP Fatal error:  Out of memory (allocated 3145728) (tried to allocate 7680 bytes) in /home/wildfalc/public_html/lib/Varien/Cache/Core.php on line 125
+[05-Aug-2013 12:53:27 UTC] PHP Fatal error:  Out of memory (allocated 3932160) (tried to allocate 954 bytes) in /home/wildfalc/public_html/app/code/core/Mage/Core/Model/Resource.php on line 25
+[05-Aug-2013 12:53:27 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 7680 bytes) in /home/wildfalc/public_html/app/code/core/Mage/Core/Model/Resource/Db/Collection/Abstract.php on line 626
+[05-Aug-2013 23:06:32 Australia/Melbourne] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/ffmpeg.so' - libavcodec.so.52: cannot map zero-fill pages: Cannot allocate memory in Unknown on line 0
+[05-Aug-2013 13:06:33 UTC] PHP Fatal error:  Out of memory (allocated 5242880) (tried to allocate 7680 bytes) in /home/wildfalc/public_html/lib/Varien/Db/Adapter/Pdo/Mysql.php on line 1745
+[07-Aug-2013 13:41:22 UTC] PHP Fatal error:  Call to a member function getCode() on a non-object in /home/wildfalc/public_html/app/code/core/Mage/Directory/Model/Currency.php on line 171
